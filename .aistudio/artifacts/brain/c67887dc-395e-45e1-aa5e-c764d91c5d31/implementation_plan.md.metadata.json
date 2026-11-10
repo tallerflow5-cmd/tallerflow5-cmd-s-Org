@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan para incorporar generación y descarga de comprobante PDF al concluir el servicio, envío automático de mensaje y comprobante por WhatsApp, y motor de retención de clientes con alertas programables de 9 a 12 meses para mantenimiento preventivo y limpieza.",
+  "updatedAt":  "2026-11-10T20:53:58.602561192Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TallerFlow - Gestión Operativa de Taller de Electrodomésticos",
+  "description": "Sistema integral para gestión de órdenes de servicio, presupuestos, repuestos y escaneo OCR de documentos para talleres de línea blanca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
